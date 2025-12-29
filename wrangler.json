@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "football-ia",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "5433e45f-1f3f-437f-936e-06117e69774a",
+			"database_name": "football-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
